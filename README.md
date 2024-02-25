@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aryanlikestocode
-- 👀 I’m interested in deep trouble
+- 👀 I’m interested in learning about database's 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on automation CI/CD
 - 📫 How to reach me email me aryan.kaushik5126@gmail.com
